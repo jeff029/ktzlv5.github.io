@@ -67,7 +67,7 @@
 }
 
 .page-footer {
-  background: url(../img/tigersnest.jpg);
+  background: url(/img/tigersnest.jpg);
   background-size: cover;
   background-position: center;
   /* height: 100vh; */
