@@ -77,9 +77,10 @@
 
 }
 
-/* 
-@media(max-width: 500px) {
-  .section-developers,.section-podcast {
-    min-height: 240px;
+@media screen and (max-width: 1100px){
+  .navbar-fixed.container{
+    width:80%;
   }
-} */
+ 
+
+}
